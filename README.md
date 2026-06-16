@@ -20,18 +20,19 @@
 - 📍 Madhya Pradesh, India
 - 🚀 Building projects & learning daily
 
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/simran-kushwah-046815411)
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Currently Know
 
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
@@ -42,6 +43,14 @@
 
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+
+## 📚 Currently Learning
+
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
@@ -88,6 +97,20 @@
 
 ---
 
+## 🟩 Contribution Graph
+
+<div align="center">
+
+
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codewithsimran1&theme=radical&hide_border=true)
+
+
+
+</div>
+
+---
+
 ## 🚀 My Projects
 
 - 📁 **Mera Pehla Project** — GitHub Practice
@@ -106,9 +129,3 @@
 ⭐ **Profile dekhne ke liye shukriya!** ⭐
 
 </div>
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/simran-kushwah-046815411)
